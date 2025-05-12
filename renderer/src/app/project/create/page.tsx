@@ -1,5 +1,5 @@
 import { Header } from "@/components/header";
-import { HomeFooter } from "@/components/home";
+import { HomeFooter } from "@/components/Home";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
